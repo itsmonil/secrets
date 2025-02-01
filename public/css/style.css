@@ -1,0 +1,25 @@
+body{
+    background-color: #f4f4f4;
+    font-family: Arial, sans-serif;
+}
+
+form button,input{
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
+i{
+    font-size: 80px;
+}
+
+.centered{
+    text-align: center;
+    padding-top: 200px;
+}
+
+.secret-text{
+    color: #f4f4f4;
+    font-size: 20px;
+    font-weight: bold;
+    text-align: center;
+    background-color: black;
+}
